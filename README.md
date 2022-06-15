@@ -1,5 +1,5 @@
 
-<h2>Hello World!! I'm <a href "https://vigilant-hoover-f31ea4.netlify.app/">  Dipanshu 👋</a></h2>
+<h2>Hello World!! I'm Dipanshu 👋</h2>
 
 <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="450" height="245" />
 
