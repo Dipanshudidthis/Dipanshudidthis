@@ -4,12 +4,10 @@
 <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="450" height="245" />
 
 - 🔭 Working on developing my skills in programming.
-- 🌱 I’m currently learning **Javascript** and sharpening my knowledge on backend.
+- 🌱 I’m currently learning different AWS.
 - 👯 I’m looking to collaborate with people in **Open source community**.
 - 💬 Ask me about **Spring Boot**.
-- 📫 How to reach me: **dit_commit#5493** -> My Discord Username.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Monkey D. Luffy is a goat.
+- 📫 How to reach me: <a href="mailto:dipanshut2002@gmail.com">**dipanshut2002@gmail.com**</a>
 
 
 ### Connect with me on:
