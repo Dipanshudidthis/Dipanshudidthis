@@ -6,7 +6,7 @@
 - 🔭 Working on developing my skills in programming.
 - 🌱 I’m currently learning **Javascript** and sharpening my knowledge on backend.
 - 👯 I’m looking to collaborate with people in **Open source community**.
-- 💬 Ask me about **React.js** and **Node.js**.
+- 💬 Ask me about **Spring Boot**.
 - 📫 How to reach me: **dit_commit#5493** -> My Discord Username.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Monkey D. Luffy is a goat.
